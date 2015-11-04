@@ -1,0 +1,625 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2015-11-04T14:44:32Z
+WARC-Record-ID: <urn:uuid:2f1bbf47-df56-440c-8f3f-166c5c3a674e>
+WARC-Filename: trudy-page1.warc
+WARC-Block-Digest: sha1:6KZTQZFTFTSDVCU5TNCZG66AXH3ZQPNW
+Content-Length: 338
+
+software: Wget/1.15 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "-r" "-l" "3" "--warc-file=trudy-page1" "--no-warc-compression" "http://wayback.archive.org/web/20021212160131/http://www.geocities.com/trudyb1998/page1.html" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: http://wayback.archive.org/web/20021212160131/http://www.geocities.com/trudyb1998/page1.html
+Content-Type: application/http;msgtype=request
+WARC-Date: 2015-11-04T14:44:33Z
+WARC-Record-ID: <urn:uuid:4a47f79d-6896-4106-8765-bea710d8d569>
+WARC-IP-Address: 207.241.224.26
+WARC-Warcinfo-ID: <urn:uuid:2f1bbf47-df56-440c-8f3f-166c5c3a674e>
+WARC-Block-Digest: sha1:CNGEIKCSOUO4IMZ2ISFMSWWPHMR7BP5D
+Content-Length: 182
+
+GET /web/20021212160131/http://www.geocities.com/trudyb1998/page1.html HTTP/1.1
+User-Agent: Wget/1.15 (linux-gnu)
+Accept: */*
+Host: wayback.archive.org
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:e21cd984-5c2b-49db-a7aa-8559fe704abc>
+WARC-Warcinfo-ID: <urn:uuid:2f1bbf47-df56-440c-8f3f-166c5c3a674e>
+WARC-Concurrent-To: <urn:uuid:4a47f79d-6896-4106-8765-bea710d8d569>
+WARC-Target-URI: http://wayback.archive.org/web/20021212160131/http://www.geocities.com/trudyb1998/page1.html
+WARC-Date: 2015-11-04T14:44:33Z
+WARC-IP-Address: 207.241.224.26
+WARC-Block-Digest: sha1:7SJZ3RIRZD72GPB4YTDD6U6TQD6YP4JC
+WARC-Payload-Digest: sha1:MML6HX7BL6DF243YY2C43RBYS7RONA6I
+Content-Type: application/http;msgtype=response
+Content-Length: 20569
+
+HTTP/1.1 200 OK
+Server: Tengine/2.1.0
+Date: Wed, 04 Nov 2015 14:44:33 GMT
+Content-Type: text/html;charset=utf-8
+Content-Length: 18350
+Connection: keep-alive
+set-cookie: wayback_server=59; Domain=archive.org; Path=/; Expires=Fri, 04-Dec-15 14:44:33 GMT;
+Memento-Datetime: Thu, 12 Dec 2002 16:01:31 GMT
+Link: <http://www.geocities.com/trudyb1998/page1.html>; rel="original", <http://web.archive.org/web/timemap/link/http://www.geocities.com/trudyb1998/page1.html>; rel="timemap"; type="application/link-format", <http://web.archive.org/web/http://www.geocities.com/trudyb1998/page1.html>; rel="timegate", <http://web.archive.org/web/19991127201539/http://www.geocities.com/trudyb1998/page1.html>; rel="first memento"; datetime="Sat, 27 Nov 1999 20:15:39 GMT", <http://web.archive.org/web/20020213225039/http://www.geocities.com/trudyb1998/page1.html>; rel="prev memento"; datetime="Wed, 13 Feb 2002 22:50:39 GMT", <http://web.archive.org/web/20021212160131/http://www.geocities.com/trudyb1998/page1.html>; rel="memento"; datetime="Thu, 12 Dec 2002 16:01:31 GMT", <http://web.archive.org/web/20090829184214/http://www.geocities.com/trudyb1998/page1.html>; rel="next memento"; datetime="Sat, 29 Aug 2009 18:42:14 GMT", <http://web.archive.org/web/20091028105105/http://www.geocities.com/trudyb1998/page1.html>; rel="last memento"; datetime="Wed, 28 Oct 2009 10:51:05 GMT"
+Set-Cookie: JSESSIONID=0C1855E6D259F3EAF578F1772AA6DE7D; Path=/; HttpOnly
+X-Archive-Orig-last-modified: Fri, 29 Sep 2000 19:56:09 GMT
+X-Archive-Orig-etag: "e543e7-234a-39d4f3d9"
+X-Archive-Guessed-Charset: windows-1252
+X-Archive-Orig-accept-ranges: bytes
+X-Archive-Orig-connection: close
+X-Archive-Orig-content-type: text/html
+X-Archive-Orig-date: Thu, 12 Dec 2002 16:01:32 GMT
+X-Archive-Orig-content-length: 9595
+X-Archive-Orig-p3p: policyref="http://p3p.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE GOV"
+X-Archive-Wayback-Perf: {"IndexLoad":296,"IndexQueryTotal":296,"RobotsFetchTotal":4,"RobotsRedis":4,"RobotsTotal":4,"Total":405,"WArcResource":103}
+X-Archive-Playback: 1
+X-Page-Cache: MISS
+
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app34.us.archive.org";archive_analytics.values.server_ms=405;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./page1_files/filelist.xml">
+<link rel=Edit-Time-Data href="./page1_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Hi, im Trudy,</title>
+<!--[if gte mso 9]><xml>
+ 
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>0</w:DisplayVerticalDrawingGridEvery>
+  <w:UseMarginsForDrawingGridOrigin/>
+  <w:Compatibility>
+   <w:FootnoteLayoutLikeWW8/>
+   <w:ShapeLayoutLikeWW8/>
+   <w:AlignTablesRowByRow/>
+   <w:ForgetLastTabAlignment/>
+   <w:LayoutRawTableWidth/>
+   <w:LayoutTableRowsApart/>
+  </w:Compatibility>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:"Baskerville Old Face";
+	panose-1:2 2 6 2 8 5 5 2 3 3;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-ansi-language:NL;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:16.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Baskerville Old Face";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:yellow;
+	font-weight:bold;}
+p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:16.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Baskerville Old Face";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:#FFCC99;
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:70.85pt 70.85pt 70.85pt 70.85pt;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1027"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body bgcolor="#ffffcc" background="/web/20021212160131im_/http://www.geocities.com/trudyb1998/page1_files/image001.jpg" lang=EN-GB
+link=blue vlink=purple style='tab-interval:35.4pt'>
+
+
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript">//<![CDATA[
+var __wm = (function(imgWidth,imgHeight,yearImgWidth,monthImgWidth){
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http://www.geocities.com/trudyb1998/page1.html";
+
+var firstYear = 1996;
+var displayDay = "12";
+var displayMonth = "Dec";
+var displayYear = "2002";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+var $D=document,$=function(n){return document.getElementById(n)};
+var trackerVal,curYear = -1,curMonth = -1;
+var yearTracker,monthTracker;
+function showTrackers(val) {
+  if (val===trackerVal) return;
+  var $ipp=$("wm-ipp");
+  var $y=$("displayYearEl"),$m=$("displayMonthEl"),$d=$("displayDayEl");
+  if (val) {
+    $ipp.className="hi";
+  } else {
+    $ipp.className="";
+    $y.innerHTML=displayYear;$m.innerHTML=displayMonth;$d.innerHTML=displayDay;
+  }
+  yearTracker.style.display=val?"inline":"none";
+  monthTracker.style.display=val?"inline":"none";
+  trackerVal = val;
+}
+function trackMouseMove(event,element) {
+  var eventX = getEventX(event);
+  var elementX = getElementX(element);
+  var xOff = Math.min(Math.max(0, eventX - elementX),imgWidth);
+  var monthOff = xOff % yearImgWidth;
+
+  var year = Math.floor(xOff / yearImgWidth);
+  var monthOfYear = Math.min(11,Math.floor(monthOff / monthImgWidth));
+  // 1 extra border pixel at the left edge of the year:
+  var month = (year * 12) + monthOfYear;
+  var day = monthOff % 2==1?15:1;
+  var dateString = zeroPad(year + firstYear) + zeroPad(monthOfYear+1,2) +
+    zeroPad(day,2) + "000000";
+
+  $("displayYearEl").innerHTML=year+firstYear;
+  $("displayMonthEl").innerHTML=prettyMonths[monthOfYear];
+  // looks too jarring when it changes..
+  //$("displayDayEl").innerHTML=zeroPad(day,2);
+  var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+  $("wm-graph-anchor").href=url;
+
+  if(curYear != year) {
+    var yrOff = year * yearImgWidth;
+    yearTracker.style.left = yrOff + "px";
+    curYear = year;
+  }
+  if(curMonth != month) {
+    var mtOff = year + (month * monthImgWidth) + 1;
+    monthTracker.style.left = mtOff + "px";
+    curMonth = month;
+  }
+}
+function hideToolbar() {
+  $("wm-ipp").style.display="none";
+}
+function bootstrap() {
+  var $spk=$("wm-ipp-sparkline");
+  yearTracker=$D.createElement('div');
+  yearTracker.className='yt';
+  with(yearTracker.style){
+    display='none';width=yearImgWidth+"px";height=imgHeight+"px";
+  }
+  monthTracker=$D.createElement('div');
+  monthTracker.className='mt';
+  with(monthTracker.style){
+    display='none';width=monthImgWidth+"px";height=imgHeight+"px";
+  }
+  $spk.appendChild(yearTracker);
+  $spk.appendChild(monthTracker);
+
+  var $ipp=$("wm-ipp");
+  $ipp&&disclaimElement($ipp);
+}
+return{st:showTrackers,mv:trackMouseMove,h:hideToolbar,bt:bootstrap};
+})(500, 27, 25, 2);//]]>
+</script>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+</style>
+<div id="wm-ipp" lang="en" style="display:none;">
+
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+   <table style="width:100%;"><tbody><tr>
+   <td id="wm-logo">
+       <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+   </td>
+   <td class="c">
+       <table style="margin:0 auto;"><tbody><tr>
+       <td class="u" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://www.geocities.com/trudyb1998/page1.html" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20021212160131" /><input type="submit" value="Go" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td class="n" rowspan="2">
+           <table><tbody>
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr class="m">
+           	<td class="b" nowrap="nowrap">
+		
+		    <a href="/web/20020213225039/http://www.geocities.com/trudyb1998/page1.html" title="13 Feb 2002">FEB</a>
+		
+		</td>
+		<td class="c" id="displayMonthEl" title="You are here: 16:01:31 Dec 12, 2002">DEC</td>
+		<td class="f" nowrap="nowrap">
+		
+		    <a href="/web/20090829184214/http://geocities.com/trudyb1998/page1.html" title="29 Aug 2009"><strong>AUG</strong></a>
+		
+                </td>
+	    </tr>
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr class="d">
+               <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20020213225039/http://www.geocities.com/trudyb1998/page1.html" title="22:50:39 Feb 13, 2002"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a>
+               
+               </td>
+               <td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 16:01:31 Dec 12, 2002">12</td>
+	       <td class="f" nowrap="nowrap">
+               
+		   <a href="/web/20090829184214/http://geocities.com/trudyb1998/page1.html" title="18:42:14 Aug 29, 2009"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a>
+	       
+	       </td>
+           </tr>
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr class="y">
+	       <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/19991127201539/http://www.geocities.com/trudyb1998/page1.html" title="27 Nov 1999"><strong>1999</strong></a>
+               
+               </td>
+               <td class="c" id="displayYearEl" title="You are here: 16:01:31 Dec 12, 2002">2002</td>
+	       <td class="f" nowrap="nowrap">
+               
+	           <a href="/web/20090829184214/http://geocities.com/trudyb1998/page1.html" title="29 Aug 2009"><strong>2009</strong></a>
+	       
+	       </td>
+           </tr>
+           </tbody></table>
+       </td>
+       </tr>
+       <tr>
+       <td class="s">
+           <a class="t" href="/web/20021212160131*/http://www.geocities.com/trudyb1998/page1.html" title="See a list of every capture for this URL">6 captures</a>
+           <div class="r" title="Timespan for captures of this URL">27 Nov 99 - 28 Oct 09</div>
+       </td>
+       <td class="k">
+       <a href="" id="wm-graph-anchor">
+       <div id="wm-ipp-sparkline" title="Explore captures for this URL">
+	 <img id="sparklineImgId" alt="sparklines"
+		 onmouseover="__wm.st(1)" onmouseout="__wm.st(0)"
+		 onmousemove="__wm.mv(event,this)"
+		 width="500"
+		 height="27"
+		 border="0"
+		 src="/web/jsp/graph.jsp?graphdata=500_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000010_2000:-1:000000000000_2001:-1:000000000000_2002:11:010000000001_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000000_2006:-1:000000000000_2007:-1:000000000000_2008:-1:000000000000_2009:-1:000000010200_2010:-1:000000000000_2011:-1:000000000000_2012:-1:000000000000_2013:-1:000000000000_2014:-1:000000000000_2015:-1:000000000000" />
+       </div>
+       </a>
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td class="r">
+       <a href="#close" onclick="__wm.h();return false;" style="background-image:url(/static/images/toolbar/wm_tb_close.png);top:5px;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="background-image:url(/static/images/toolbar/wm_tb_help.png);bottom:5px;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+</div>
+</div>
+</div>
+<script type="text/javascript">__wm.bt();</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+<!--[if gte mso 9]><xml>
+ <v:background id="_x0000_s1025" o:bwmode="white" fillcolor="#ffc">
+  <v:fill src="./page1_files/image001.jpg" o:title="Stationery" type="tile"/>
+ </v:background></xml><![endif]-->
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><!--[if gte vml 1]><v:shapetype
+ id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+ path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_s1026" type="#_x0000_t75" style='position:absolute;
+ left:0;text-align:left;margin-left:0;margin-top:0;width:335.3pt;height:411.75pt;
+ z-index:-1;mso-wrap-edited:f;mso-position-horizontal:left;
+ mso-position-horizontal-relative:text;mso-position-vertical:top;
+ mso-position-vertical-relative:text' wrapcoords="-1117 -807 -1117 22307 22717 22307 22717 -807 -1117 -807"
+ stroked="t" strokecolor="#0cf" strokeweight="6pt">
+ <v:imagedata src="./page1_files/image002.jpg" o:title="indexphoto1"/>
+</v:shape><![endif]--><![if !vml]><span style="mso-ignore:vglayout;position:
+absolute;z-index:-2;left:0px;margin-left:0px;margin-top:0px;width:115px;
+height:140px"><img width=115 height=140 
+v:shapes="_x0000_s1026"></span><![endif]><b><span style="font-size:22.0pt;
+mso-bidi-font-size:10.0pt;font-family:&quot;Baskerville Old Face&quot;;color:#0000CC;
+mso-ansi-language:EN-GB">Hi, im Trudy,<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style="font-size:22.0pt;mso-bidi-font-size:10.0pt;font-family:&quot;Baskerville Old Face&quot;;
+color:#0000CC;mso-ansi-language:EN-GB">First of all let me tell you a few
+things about myself,<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span style="font-size:16.0pt;mso-bidi-font-size:10.0pt;
+font-family:&quot;Baskerville Old Face&quot;;color:#0000CC;mso-ansi-language:EN-GB"><![if !supportEmptyParas]> <![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span style="font-size:16.0pt;mso-bidi-font-size:10.0pt;
+font-family:&quot;Baskerville Old Face&quot;;color:#0000CC;mso-ansi-language:EN-GB"><![if !supportEmptyParas]> <![endif]><o:p></o:p></span></b></p>
+
+<p class=MsoBodyText><span style='color:#0000CC'>I’m what people call a
+transvestite, I’m a heterosexual male who loves to dress and
+be a woman.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b><span style="font-size:16.0pt;mso-bidi-font-size:10.0pt;
+font-family:&quot;Baskerville Old Face&quot;;color:#0000CC;mso-ansi-language:EN-GB">I
+don’t want to get a sex change, but I like to be Trudy some time.<o:p></o:p></span></b></p>
+
+<p class=MsoBodyText2><span style='color:#0000CC'>For me dressing like Trudy is
+somewhat of an art, I like to try to be different Trudy’s sometimes.<o:p></o:p></span></p>
+
+<p class=MsoBodyText2><span style='color:#0000CC'>It’s the art off trying to be
+a passable woman, in all different ways.<o:p></o:p></span></p>
+
+<p class=MsoBodyText2><span style='color:#0000CC'>So if you like to see who I
+can be, come in and share my life as Trudy with me.<o:p></o:p></span></p>
+
+<p class=MsoBodyText2 align=right style='text-align:right'><span
+style='color:#0000CC'><![if !supportEmptyParas]> <![endif]><o:p></o:p></span></p>
+
+<p class=MsoBodyText2 align=right style='text-align:right'><span
+style='color:#0000CC'><![if !supportEmptyParas]> <![endif]><o:p></o:p></span></p>
+
+<p class=MsoBodyText2 align=right style='text-align:right'><span
+style='font-size:20.0pt;mso-bidi-font-size:10.0pt;color:red'><a href="bio.html"><span
+lang=NL style="font-family:&quot;Times New Roman&quot;;color:red;mso-ansi-language:NL">Biography</span></a><o:p></o:p></span></p>
+
+<p class=MsoBodyText2 align=right style='text-align:right'><span
+style='font-size:20.0pt;mso-bidi-font-size:10.0pt;color:red'><![if !supportEmptyParas]> <![endif]><o:p></o:p></span></p>
+
+<p class=MsoBodyText2 align=right style='text-align:right'><span
+style='font-size:22.0pt;mso-bidi-font-size:10.0pt;color:red'><a
+href="galary.html"><span style='color:red'>Gallery</span></a><o:p></o:p></span></p>
+
+<p class=MsoBodyText2 align=right style='text-align:right'><span
+style='font-size:22.0pt;mso-bidi-font-size:10.0pt;color:red'><![if !supportEmptyParas]> <![endif]><o:p></o:p></span></p>
+
+<p class=MsoBodyText2 align=right style='text-align:right'><span
+style='font-size:22.0pt;mso-bidi-font-size:10.0pt;color:red'><a
+href="diary.html"><span style='color:red'>Trudy's holiday experience</span></a><o:p></o:p></span></p>
+
+<p class=MsoBodyText2 align=right style='text-align:right'><span
+style='font-size:22.0pt;mso-bidi-font-size:10.0pt;color:red'><![if !supportEmptyParas]> <![endif]><o:p></o:p></span></p>
+
+<p class=MsoBodyText2 align=right style='text-align:right'><span
+style='font-size:22.0pt;mso-bidi-font-size:10.0pt;color:red'><a
+href="links.html"><span style='color:red'>Links</span></a><o:p></o:p></span></p>
+
+<p class=MsoBodyText2 align=right style='text-align:right'><span
+style='font-size:22.0pt;mso-bidi-font-size:10.0pt;color:red'><![if !supportEmptyParas]> <![endif]><o:p></o:p></span></p>
+
+<p class=MsoBodyText2 align=right style='text-align:right'><span
+style='font-size:22.0pt;mso-bidi-font-size:10.0pt;color:red'><a
+href="mailto:trudy@travestie.org?subject=reactions%20to%20Totaly%20Trudy"><span
+style='color:red'>e-mail you're reactions</span></a><o:p></o:p></span></p>
+
+</div>
+
+</body>
+
+</html>
+<!-- text below generated by server. PLEASE REMOVE --></object></layer></div></span></style></noscript></table></script></applet><script language="JavaScript" src="/web/20021212160131js_/http://us.i1.yimg.com/us.yimg.com/i/mc/mc.js"></script><script language="JavaScript" src="/web/20021212160131js_/http://domainpending.com/js_source/geov2.js"></script><script language="javascript">geovisit();</script><noscript><img src="/web/20021212160131im_/http://visit.webhosting.yahoo.com/visit.gif?us1039708892" border=0 width=1 height=1></noscript>
+<IMG SRC="/web/20021212160131im_/http://geo.yahoo.com/serv?s=76001074&amp;t=1039708892" ALT=1 WIDTH=1 HEIGHT=1>
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 16:01:31 Dec 12, 2002 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:44:33 Nov 4, 2015.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: http://wayback.archive.org/robots.txt
+Content-Type: application/http;msgtype=request
+WARC-Date: 2015-11-04T14:44:34Z
+WARC-Record-ID: <urn:uuid:f085835f-6f4b-45a8-a3b7-c4b577134a48>
+WARC-IP-Address: 207.241.224.26
+WARC-Warcinfo-ID: <urn:uuid:2f1bbf47-df56-440c-8f3f-166c5c3a674e>
+WARC-Block-Digest: sha1:IIX3OMNWZVOYUFH5M23OTATAYLGIR2OY
+Content-Length: 199
+
+GET /robots.txt HTTP/1.1
+User-Agent: Wget/1.15 (linux-gnu)
+Accept: */*
+Host: wayback.archive.org
+Connection: Keep-Alive
+Cookie: JSESSIONID=0C1855E6D259F3EAF578F1772AA6DE7D; wayback_server=59
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:ffa693e9-bbaf-4326-9e19-f5dc156b39ef>
+WARC-Warcinfo-ID: <urn:uuid:2f1bbf47-df56-440c-8f3f-166c5c3a674e>
+WARC-Concurrent-To: <urn:uuid:f085835f-6f4b-45a8-a3b7-c4b577134a48>
+WARC-Target-URI: http://wayback.archive.org/robots.txt
+WARC-Date: 2015-11-04T14:44:34Z
+WARC-IP-Address: 207.241.224.26
+WARC-Block-Digest: sha1:PYRNZQSHB6LFVYWBY4U3OLKRKKW7BAHH
+WARC-Payload-Digest: sha1:77IA2Z353CWFUJXBUOBSD32KSIGWY3XS
+Content-Type: application/http;msgtype=response
+Content-Length: 391
+
+HTTP/1.1 200 OK
+Server: Tengine/2.1.0
+Date: Wed, 04 Nov 2015 14:44:34 GMT
+Content-Type: text/plain
+Content-Length: 101
+Connection: keep-alive
+ETag: W/"101-1402435148000"
+Last-Modified: Tue, 10 Jun 2014 21:19:08 GMT
+X-Archive-Playback: 0
+X-Page-Cache: MISS
+Accept-Ranges: bytes
+
+# robots.txt web.archive.org 2013-10-02
+
+User-agent: *
+Disallow: /
+
+User-agent: ia_archiver
+Allow: /
+
+
+WARC/1.0
+WARC-Type: metadata
+WARC-Record-ID: <urn:uuid:b442acf2-b1f2-4ff5-afe6-ca881642cc71>
+WARC-Warcinfo-ID: <urn:uuid:2f1bbf47-df56-440c-8f3f-166c5c3a674e>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/MANIFEST.txt
+WARC-Date: 2015-11-04T14:44:34Z
+WARC-Block-Digest: sha1:DAZ5BSOLUL62INYYKSQAQ4JDFY6ONZEO
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:2f1bbf47-df56-440c-8f3f-166c5c3a674e>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:fab6b979-089f-4069-8a3f-cc0fc61e439d>
+WARC-Warcinfo-ID: <urn:uuid:2f1bbf47-df56-440c-8f3f-166c5c3a674e>
+WARC-Concurrent-To: <urn:uuid:b442acf2-b1f2-4ff5-afe6-ca881642cc71>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/wget_arguments.txt
+WARC-Date: 2015-11-04T14:44:34Z
+WARC-Block-Digest: sha1:INAWSN4YAZKNRW2ZPEGOM2HOTXZLLVNG
+Content-Type: text/plain
+Content-Length: 160
+
+"-r" "-l" "3" "--warc-file=trudy-page1" "--no-warc-compression" "http://wayback.archive.org/web/20021212160131/http://www.geocities.com/trudyb1998/page1.html" 
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:78d93191-04cd-475a-8c7a-e19ff156236d>
+WARC-Warcinfo-ID: <urn:uuid:2f1bbf47-df56-440c-8f3f-166c5c3a674e>
+WARC-Concurrent-To: <urn:uuid:b442acf2-b1f2-4ff5-afe6-ca881642cc71>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/wget.log
+WARC-Date: 2015-11-04T14:44:34Z
+WARC-Block-Digest: sha1:XDWXLDOC575AF56APZQGDYQ4IZMBDQEE
+Content-Type: text/plain
+Content-Length: 1277
+
+Opening WARC file ‘trudy-page1.warc’.
+
+--2015-11-04 14:44:32--  http://wayback.archive.org/web/20021212160131/http://www.geocities.com/trudyb1998/page1.html
+Resolving wayback.archive.org (wayback.archive.org)... 207.241.224.26
+Connecting to wayback.archive.org (wayback.archive.org)|207.241.224.26|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 18350 (18K) [text/html]
+Saving to: ‘wayback.archive.org/web/20021212160131/http:/www.geocities.com/trudyb1998/page1.html’
+
+     0K .......... .......                                    100%  109K=0.2s
+
+2015-11-04 14:44:34 (109 KB/s) - ‘wayback.archive.org/web/20021212160131/http:/www.geocities.com/trudyb1998/page1.html’ saved [18350/18350]
+
+Loading robots.txt; please ignore errors.
+--2015-11-04 14:44:34--  http://wayback.archive.org/robots.txt
+Reusing existing connection to wayback.archive.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 101 [text/plain]
+Saving to: ‘wayback.archive.org/robots.txt’
+
+     0K                                                       100% 6.13M=0s
+
+2015-11-04 14:44:34 (6.13 MB/s) - ‘wayback.archive.org/robots.txt’ saved [101/101]
+
+FINISHED --2015-11-04 14:44:34--
+Total wall clock time: 1.7s
+Downloaded: 2 files, 18K in 0.2s (110 KB/s)
+
+

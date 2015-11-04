@@ -1,0 +1,634 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2015-11-04T14:45:18Z
+WARC-Record-ID: <urn:uuid:f503f691-614d-4cf6-8ef9-b41ad24651f1>
+WARC-Filename: trudy-homepage.warc
+WARC-Block-Digest: sha1:Z3BEFFVPY6ZKKYIAA6LILPP4RXSGM6AC
+Content-Length: 327
+
+software: Wget/1.15 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "-r" "-l" "3" "--warc-file=trudy-homepage" "--no-warc-compression" "http://wayback.archive.org/web/20091026012819/http://geocities.com/trudyb1998/" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: http://wayback.archive.org/web/20091026012819/http://geocities.com/trudyb1998/
+Content-Type: application/http;msgtype=request
+WARC-Date: 2015-11-04T14:45:19Z
+WARC-Record-ID: <urn:uuid:06b16203-47f4-49c3-b43f-444dbf241ccb>
+WARC-IP-Address: 207.241.224.26
+WARC-Warcinfo-ID: <urn:uuid:f503f691-614d-4cf6-8ef9-b41ad24651f1>
+WARC-Block-Digest: sha1:P5QJKVIMF2IIVEFGEMOCPMTHPIT2IJZR
+Content-Length: 168
+
+GET /web/20091026012819/http://geocities.com/trudyb1998/ HTTP/1.1
+User-Agent: Wget/1.15 (linux-gnu)
+Accept: */*
+Host: wayback.archive.org
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:f411bdc0-90a8-41cb-ae46-ff7a7297b463>
+WARC-Warcinfo-ID: <urn:uuid:f503f691-614d-4cf6-8ef9-b41ad24651f1>
+WARC-Concurrent-To: <urn:uuid:06b16203-47f4-49c3-b43f-444dbf241ccb>
+WARC-Target-URI: http://wayback.archive.org/web/20091026012819/http://geocities.com/trudyb1998/
+WARC-Date: 2015-11-04T14:45:19Z
+WARC-IP-Address: 207.241.224.26
+WARC-Block-Digest: sha1:P3OULCX2YZWEPBVE5S2SQ6YJBNAHKHQK
+WARC-Payload-Digest: sha1:NXPU3W6GXDMTUGNUHPNCI527B72FBO2I
+Content-Type: application/http;msgtype=response
+Content-Length: 20124
+
+HTTP/1.1 200 OK
+Server: Tengine/2.1.0
+Date: Wed, 04 Nov 2015 14:45:24 GMT
+Content-Type: text/html;charset=utf-8
+Content-Length: 17972
+Connection: keep-alive
+set-cookie: wayback_server=59; Domain=archive.org; Path=/; Expires=Fri, 04-Dec-15 14:45:19 GMT;
+Memento-Datetime: Mon, 26 Oct 2009 01:28:19 GMT
+Link: <http://geocities.com/trudyb1998/>; rel="original", <http://web.archive.org/web/timemap/link/http://geocities.com/trudyb1998/>; rel="timemap"; type="application/link-format", <http://web.archive.org/web/http://geocities.com/trudyb1998/>; rel="timegate", <http://web.archive.org/web/20000510171103/http://geocities.com/trudyb1998/>; rel="first memento"; datetime="Wed, 10 May 2000 17:11:03 GMT", <http://web.archive.org/web/20090831134332/http://geocities.com/trudyb1998/>; rel="prev memento"; datetime="Mon, 31 Aug 2009 13:43:32 GMT", <http://web.archive.org/web/20091026012819/http://geocities.com/trudyb1998/>; rel="memento"; datetime="Mon, 26 Oct 2009 01:28:19 GMT", <http://web.archive.org/web/20091027040343/http://geocities.com/trudyb1998/>; rel="next last memento"; datetime="Tue, 27 Oct 2009 04:03:43 GMT"
+Set-Cookie: JSESSIONID=0128B4A752C371D18C743EFE659BFC89; Path=/; HttpOnly
+X-Archive-Guessed-Charset: windows-1252
+X-Archive-Orig-cache-control: private
+X-Archive-Orig-content-type: text/html
+X-Archive-Orig-x-inkt-uri: http://us.geocities.com/trudyb1998/index.html
+X-Archive-Orig-x-inkt-site: http://us.geocities.com/trudyb1998
+X-Archive-Orig-last-modified: Wed, 22 Jun 2005 18:02:35 GMT
+X-Archive-Orig-accept-ranges: bytes
+X-Archive-Orig-connection: close
+X-Archive-Orig-date: Mon, 26 Oct 2009 01:28:19 GMT
+X-Archive-Orig-content-length: 9188
+X-Archive-Orig-x-host: w8.geo.sp2.yahoo.com
+X-Archive-Orig-p3p: policyref="http://info.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+X-Archive-Wayback-Perf: {"IndexLoad":85,"IndexQueryTotal":85,"RobotsFetchTotal":3,"RobotsRedis":3,"RobotsTotal":3,"Total":5170,"WArcResource":79}
+X-Archive-Playback: 1
+X-Page-Cache: MISS
+
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app17.us.archive.org";archive_analytics.values.server_ms=5170;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./index_files/filelist.xml">
+<link rel=Edit-Time-Data href="./index_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title> </title>
+<!--[if gte mso 9]><xml>
+
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>0</w:DisplayVerticalDrawingGridEvery>
+  <w:UseMarginsForDrawingGridOrigin/>
+  <w:Compatibility>
+   <w:FootnoteLayoutLikeWW8/>
+   <w:ShapeLayoutLikeWW8/>
+   <w:AlignTablesRowByRow/>
+   <w:ForgetLastTabAlignment/>
+   <w:LayoutRawTableWidth/>
+   <w:LayoutTableRowsApart/>
+  </w:Compatibility>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:"Baskerville Old Face";
+	panose-1:2 2 6 2 8 5 5 2 3 3;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-ansi-language:NL;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:16.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#993366;
+	mso-ansi-language:EN-US;
+	font-weight:bold;}
+p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	font-size:16.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Baskerville Old Face";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:#FFCC00;
+	mso-ansi-language:EN-US;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:70.85pt 70.85pt 70.85pt 70.85pt;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1029"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body bgcolor=red background="/web/20091026012819im_/http://geocities.com/trudyb1998/index_files/image001.jpg" lang=EN-GB link=blue
+vlink=blue style='tab-interval:35.4pt'>
+
+
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript">//<![CDATA[
+var __wm = (function(imgWidth,imgHeight,yearImgWidth,monthImgWidth){
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http://geocities.com/trudyb1998/";
+
+var firstYear = 1996;
+var displayDay = "26";
+var displayMonth = "Oct";
+var displayYear = "2009";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+var $D=document,$=function(n){return document.getElementById(n)};
+var trackerVal,curYear = -1,curMonth = -1;
+var yearTracker,monthTracker;
+function showTrackers(val) {
+  if (val===trackerVal) return;
+  var $ipp=$("wm-ipp");
+  var $y=$("displayYearEl"),$m=$("displayMonthEl"),$d=$("displayDayEl");
+  if (val) {
+    $ipp.className="hi";
+  } else {
+    $ipp.className="";
+    $y.innerHTML=displayYear;$m.innerHTML=displayMonth;$d.innerHTML=displayDay;
+  }
+  yearTracker.style.display=val?"inline":"none";
+  monthTracker.style.display=val?"inline":"none";
+  trackerVal = val;
+}
+function trackMouseMove(event,element) {
+  var eventX = getEventX(event);
+  var elementX = getElementX(element);
+  var xOff = Math.min(Math.max(0, eventX - elementX),imgWidth);
+  var monthOff = xOff % yearImgWidth;
+
+  var year = Math.floor(xOff / yearImgWidth);
+  var monthOfYear = Math.min(11,Math.floor(monthOff / monthImgWidth));
+  // 1 extra border pixel at the left edge of the year:
+  var month = (year * 12) + monthOfYear;
+  var day = monthOff % 2==1?15:1;
+  var dateString = zeroPad(year + firstYear) + zeroPad(monthOfYear+1,2) +
+    zeroPad(day,2) + "000000";
+
+  $("displayYearEl").innerHTML=year+firstYear;
+  $("displayMonthEl").innerHTML=prettyMonths[monthOfYear];
+  // looks too jarring when it changes..
+  //$("displayDayEl").innerHTML=zeroPad(day,2);
+  var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+  $("wm-graph-anchor").href=url;
+
+  if(curYear != year) {
+    var yrOff = year * yearImgWidth;
+    yearTracker.style.left = yrOff + "px";
+    curYear = year;
+  }
+  if(curMonth != month) {
+    var mtOff = year + (month * monthImgWidth) + 1;
+    monthTracker.style.left = mtOff + "px";
+    curMonth = month;
+  }
+}
+function hideToolbar() {
+  $("wm-ipp").style.display="none";
+}
+function bootstrap() {
+  var $spk=$("wm-ipp-sparkline");
+  yearTracker=$D.createElement('div');
+  yearTracker.className='yt';
+  with(yearTracker.style){
+    display='none';width=yearImgWidth+"px";height=imgHeight+"px";
+  }
+  monthTracker=$D.createElement('div');
+  monthTracker.className='mt';
+  with(monthTracker.style){
+    display='none';width=monthImgWidth+"px";height=imgHeight+"px";
+  }
+  $spk.appendChild(yearTracker);
+  $spk.appendChild(monthTracker);
+
+  var $ipp=$("wm-ipp");
+  $ipp&&disclaimElement($ipp);
+}
+return{st:showTrackers,mv:trackMouseMove,h:hideToolbar,bt:bootstrap};
+})(500, 27, 25, 2);//]]>
+</script>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+</style>
+<div id="wm-ipp" lang="en" style="display:none;">
+
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+   <table style="width:100%;"><tbody><tr>
+   <td id="wm-logo">
+       <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+   </td>
+   <td class="c">
+       <table style="margin:0 auto;"><tbody><tr>
+       <td class="u" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://geocities.com/trudyb1998/" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20091026012819" /><input type="submit" value="Go" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td class="n" rowspan="2">
+           <table><tbody>
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr class="m">
+           	<td class="b" nowrap="nowrap">
+		
+		    <a href="/web/20090831134332/http://geocities.com/trudyb1998/" title="31 Aug 2009">AUG</a>
+		
+		</td>
+		<td class="c" id="displayMonthEl" title="You are here: 1:28:19 Oct 26, 2009">OCT</td>
+		<td class="f" nowrap="nowrap">
+		
+		    Nov
+		
+                </td>
+	    </tr>
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr class="d">
+               <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20090831134332/http://geocities.com/trudyb1998/" title="13:43:32 Aug 31, 2009"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a>
+               
+               </td>
+               <td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 1:28:19 Oct 26, 2009">26</td>
+	       <td class="f" nowrap="nowrap">
+               
+		   <a href="/web/20091027040343/http://geocities.com/trudyb1998/" title="4:03:43 Oct 27, 2009"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a>
+	       
+	       </td>
+           </tr>
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr class="y">
+	       <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20021128014247/http://www.geocities.com/trudyb1998/" title="28 Nov 2002"><strong>2002</strong></a>
+               
+               </td>
+               <td class="c" id="displayYearEl" title="You are here: 1:28:19 Oct 26, 2009">2009</td>
+	       <td class="f" nowrap="nowrap">
+               
+                   2010
+               
+	       </td>
+           </tr>
+           </tbody></table>
+       </td>
+       </tr>
+       <tr>
+       <td class="s">
+           <a class="t" href="/web/20091026012819*/http://geocities.com/trudyb1998/" title="See a list of every capture for this URL">15 captures</a>
+           <div class="r" title="Timespan for captures of this URL">10 May 00 - 27 Oct 09</div>
+       </td>
+       <td class="k">
+       <a href="" id="wm-graph-anchor">
+       <div id="wm-ipp-sparkline" title="Explore captures for this URL">
+	 <img id="sparklineImgId" alt="sparklines"
+		 onmouseover="__wm.st(1)" onmouseout="__wm.st(0)"
+		 onmousemove="__wm.mv(event,this)"
+		 width="500"
+		 height="27"
+		 border="0"
+		 src="/web/jsp/graph.jsp?graphdata=500_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000040000000_2001:-1:000000020020_2002:-1:000100000110_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000000_2006:-1:000000000000_2007:-1:000000000000_2008:-1:000000000000_2009:9:000000020200_2010:-1:000000000000_2011:-1:000000000000_2012:-1:000000000000_2013:-1:000000000000_2014:-1:000000000000_2015:-1:000000000000" />
+       </div>
+       </a>
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td class="r">
+       <a href="#close" onclick="__wm.h();return false;" style="background-image:url(/static/images/toolbar/wm_tb_close.png);top:5px;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="background-image:url(/static/images/toolbar/wm_tb_help.png);bottom:5px;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+</div>
+</div>
+</div>
+<script type="text/javascript">__wm.bt();</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+<!-- following code added by server. PLEASE REMOVE -->
+<!-- preceding code added by server. PLEASE REMOVE -->
+<!--[if gte vml 1]><v:background id="_x0000_s1027" o:bwmode="white"
+ fillcolor="red" o:targetscreensize="800,600">
+ <v:fill src="Hi_files\image001.jpg" color2="#cff" focusposition=".5,.5"
+  focussize="" type="gradientRadial"/>
+</v:background><![endif]-->
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=NL><a
+href="page1.html"><span style="color:windowtext;text-decoration:none;
+text-underline:none"><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
+ coordsize="2160,2160" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe"
+ filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 2160 pixelWidth"/>
+  <v:f eqn="sum @8 2160 0"/>
+  <v:f eqn="prod @7 2160 pixelHeight"/>
+  <v:f eqn="sum @10 2160 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_i1025" type="#_x0000_t75" alt="Totaly Trudy is loading"
+ style='width:130.75pt;height:160.75pt' o:allowoverlap="f">
+ <v:imagedata src="./index_files/image002.jpg" o:title="indexphoto3"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=349 height=429
+src="/web/20091026012819im_/http://geocities.com/trudyb1998/index_files/image003.jpg" alt="Totaly Trudy is loading" v:shapes="_x0000_i1025"><![endif]></span></a><span
+style='color:#3366FF'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=NL><![if !supportEmptyParas]> <![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+style="font-size:24.0pt;mso-bidi-font-size:10.0pt;font-family:&quot;Baskerville Old Face&quot;;
+color:#3366FF;mso-ansi-language:EN-US">Hi, Im Trudy,<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+style="font-size:18.0pt;mso-bidi-font-size:10.0pt;font-family:&quot;Baskerville Old Face&quot;;
+color:#3366FF;mso-ansi-language:EN-US">Welcome in my world as a woman</span><span
+lang=EN-US style="font-size:18.0pt;mso-bidi-font-size:10.0pt;font-family:&quot;Baskerville Old Face&quot;;
+color:#FFCC00;mso-ansi-language:EN-US">.<o:p></o:p></span></p>
+
+<p class=MsoBodyText2><span lang=EN-US>If you don’t agree with gender issues or
+are you’re younger then 18 years old, hit the back button on youre browser.</span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+style="font-size:16.0pt;mso-bidi-font-size:10.0pt;font-family:&quot;Baskerville Old Face&quot;;
+color:#FFCC00;mso-ansi-language:EN-US"><![if !supportEmptyParas]> <![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+style="font-size:16.0pt;mso-bidi-font-size:10.0pt;font-family:&quot;Baskerville Old Face&quot;;
+color:#FFCC00;mso-ansi-language:EN-US">If you want to continu, click on my
+picture.<o:p></o:p></span></p>
+
+
+<p class=MsoNormal align=center style='text-align:center'><span
+style='font-size:12.0pt;mso-ansi-language:EN-GB'>
+<A HREF="/web/20091026012819/http://www.geocities.com/WestHollywood/6200/">
+<IMG SRC="/web/20091026012819im_/http://www.geocities.com/WestHollywood/6200/tgdirban.gif" BORDER=0></A>
+<span style="text-decoration:
+none;text-underline:none"><img border=0 width=32 height=32 id="_x0000_i1028"
+
+><!--START CROSSDRESS WEBRING FRAGMENT HERE-->
+
+<CENTER><TABLE BORDER=6 CELLPADDING=3 CELLSPACING=3><TR><TD ALIGN=MIDDLE> 
+<A HREF="/web/20091026012819/http://internationaltg.com/cdwr/index.html" TARGET="_top"> 
+<IMG SRC="cdwrhome.gif" VALIGN=CENTER WIDTH=80 HEIGHT=80 ALT="HOME"></a> 
+</TD><TD ALIGN=CENTER VALIGN=MIDDLE BGCOLOR="#d9d919">
+<FONT SIZE=4>This CrossDress WebRing site is owned by </FONT><BR> 
+
+<A HREF="mailto:trudy98@hotmail.com"><FONT SIZE="5"> Trudy</FONT></a>
+
+<P><FONT SIZE=3> 
+
+[<a href="/web/20091026012819/http://www.webring.org/cgi-bin/webring?ring=cdwr;id=190;prev" target="_top">Prev</a>] 
+[<a href="/web/20091026012819/http://www.webring.org/cgi-bin/webring?ring=cdwr;id=190;sprev" target="_top">Skip Prev</a>] 
+[<a href="/web/20091026012819/http://www.webring.org/cgi-bin/webring?ring=cdwr;id=190;next" target="_top">Next</a>] <BR>
+[<a href="/web/20091026012819/http://www.webring.org/cgi-bin/webring?ring=cdwr;id=190;skip" target="_top">Skip Next</a>] 
+
+[<a href="/web/20091026012819/http://www.webring.org/cgi-bin/webring?random;ring=cdwr" target="_top">Random</a>] 
+[<a href="/web/20091026012819/http://www.webring.org/cgi-bin/webring?ring=cdwr;list" target="_top">List Sites</a>] 
+
+</FONT></TD></TR></TABLE></CENTER> 
+ 
+<!--END CROSSDRESS WEBRING FRAGMENT HERE--> 
+
+
+<a href="/web/20091026012819/http://www.travestie.org/" target="_top"><img height="60" src="/web/20091026012819im_/http://www.travestie.org/images/travestie_org.gif" width="468" border="0"></a>
+
+
+<!-- Start SuperStats code version 2.0f.  Do not alter this code!
+      /web/20091026012819/http://www.superstats.com -->
+ <COMMENT language="JavaScript">
+ 
+<!--
+var code = " ";
+ 
+// -->
+</COMMENT>
+ <COMMENT src="http://code.superstats.com/code?u=trudy98">
+ </COMMENT><COMMENT language="JavaScript">
+ 
+<!--
+document.write(code);
+ 
+// -->
+</COMMENT><noscript><a
+ href="/web/20091026012819/http://209.185.131.251/cgi-bin/linkrd?_lang=&amp;lah=b84e301f8eb51490ba22db2f822ed5c5&amp;lat=940393242&amp;hm___action=http%3a%2f%2fstats%2esuperstats%2ecom%2fc%2ecgi%3fu%3dtrudy98"
+ target="_blank"><img
+ src="/web/20091026012819im_/http://stats.superstats.com/b.cgi?u=trudy98&amp;z=1"
+ border=0></a></noscript>
+ <!-- End SuperStats tracking code. -->
+</div>
+
+</body>
+
+</html>
+<!-- text below generated by server. PLEASE REMOVE --></object></layer></div></span></style></noscript></table></script></applet><script language="JavaScript" src="/web/20091026012819js_/http://us.i1.yimg.com/us.yimg.com/i/mc/mc.js"></script><script language="JavaScript" src="/web/20091026012819js_/http://us.js2.yimg.com/us.js.yimg.com/lib/smb/js/hosting/cp/js_source/geov2_001.js"></script><script language="javascript">geovisit();</script><noscript><img src="/web/20091026012819im_/http://visit.geocities.yahoo.com/visit.gif?us1256520499" alt="setstats" border="0" width="1" height="1"></noscript>
+<IMG SRC="/web/20091026012819im_/http://geo.yahoo.com/serv?s=76001074&amp;t=1256520499&amp;f=us-w8" ALT=1 WIDTH=1 HEIGHT=1>
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 1:28:19 Oct 26, 2009 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:45:24 Nov 4, 2015.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: http://wayback.archive.org/robots.txt
+Content-Type: application/http;msgtype=request
+WARC-Date: 2015-11-04T14:45:24Z
+WARC-Record-ID: <urn:uuid:eb43fff3-6e36-4071-bf71-2e80fc7c6c7f>
+WARC-IP-Address: 207.241.224.26
+WARC-Warcinfo-ID: <urn:uuid:f503f691-614d-4cf6-8ef9-b41ad24651f1>
+WARC-Block-Digest: sha1:LQN4H7JWWJBPTANB6ELGZLP7ZQJJJWDV
+Content-Length: 199
+
+GET /robots.txt HTTP/1.1
+User-Agent: Wget/1.15 (linux-gnu)
+Accept: */*
+Host: wayback.archive.org
+Connection: Keep-Alive
+Cookie: JSESSIONID=0128B4A752C371D18C743EFE659BFC89; wayback_server=59
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:1a75d18f-615c-46fc-a402-339f5db3f7e5>
+WARC-Warcinfo-ID: <urn:uuid:f503f691-614d-4cf6-8ef9-b41ad24651f1>
+WARC-Concurrent-To: <urn:uuid:eb43fff3-6e36-4071-bf71-2e80fc7c6c7f>
+WARC-Target-URI: http://wayback.archive.org/robots.txt
+WARC-Date: 2015-11-04T14:45:24Z
+WARC-IP-Address: 207.241.224.26
+WARC-Block-Digest: sha1:Z7FQRWOMBUKBDTWAV3UUGKWGR3V2XOUB
+WARC-Payload-Digest: sha1:77IA2Z353CWFUJXBUOBSD32KSIGWY3XS
+Content-Type: application/http;msgtype=response
+Content-Length: 390
+
+HTTP/1.1 200 OK
+Server: Tengine/2.1.0
+Date: Wed, 04 Nov 2015 14:45:25 GMT
+Content-Type: text/plain
+Content-Length: 101
+Connection: keep-alive
+ETag: W/"101-1402435148000"
+Last-Modified: Tue, 10 Jun 2014 21:19:08 GMT
+X-Archive-Playback: 0
+X-Page-Cache: HIT
+Accept-Ranges: bytes
+
+# robots.txt web.archive.org 2013-10-02
+
+User-agent: *
+Disallow: /
+
+User-agent: ia_archiver
+Allow: /
+
+
+WARC/1.0
+WARC-Type: metadata
+WARC-Record-ID: <urn:uuid:dafc4f72-6d7d-4e38-95ad-e2b59fac5498>
+WARC-Warcinfo-ID: <urn:uuid:f503f691-614d-4cf6-8ef9-b41ad24651f1>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/MANIFEST.txt
+WARC-Date: 2015-11-04T14:45:25Z
+WARC-Block-Digest: sha1:VUE6ZOKOEASXZGSZM32J47T57EU7TUEO
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:f503f691-614d-4cf6-8ef9-b41ad24651f1>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:2b580c52-57aa-4d50-8dbb-67bb94e8d387>
+WARC-Warcinfo-ID: <urn:uuid:f503f691-614d-4cf6-8ef9-b41ad24651f1>
+WARC-Concurrent-To: <urn:uuid:dafc4f72-6d7d-4e38-95ad-e2b59fac5498>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/wget_arguments.txt
+WARC-Date: 2015-11-04T14:45:25Z
+WARC-Block-Digest: sha1:4OVI4EARITQ4JUUBTRHSITSI2IMJIJSS
+Content-Type: text/plain
+Content-Length: 149
+
+"-r" "-l" "3" "--warc-file=trudy-homepage" "--no-warc-compression" "http://wayback.archive.org/web/20091026012819/http://geocities.com/trudyb1998/" 
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:92b6c17f-7c8f-46e9-b348-9806bf14229b>
+WARC-Warcinfo-ID: <urn:uuid:f503f691-614d-4cf6-8ef9-b41ad24651f1>
+WARC-Concurrent-To: <urn:uuid:dafc4f72-6d7d-4e38-95ad-e2b59fac5498>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/wget.log
+WARC-Date: 2015-11-04T14:45:25Z
+WARC-Block-Digest: sha1:WO5QRLUZSBHDQPSX6D2ZAD7HKSI6VHU4
+Content-Type: text/plain
+Content-Length: 1258
+
+Opening WARC file ‘trudy-homepage.warc’.
+
+--2015-11-04 14:45:18--  http://wayback.archive.org/web/20091026012819/http://geocities.com/trudyb1998/
+Resolving wayback.archive.org (wayback.archive.org)... 207.241.224.26
+Connecting to wayback.archive.org (wayback.archive.org)|207.241.224.26|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 17972 (18K) [text/html]
+Saving to: ‘wayback.archive.org/web/20091026012819/http:/geocities.com/trudyb1998/index.html’
+
+     0K .......... .......                                    100%  105K=0.2s
+
+2015-11-04 14:45:24 (105 KB/s) - ‘wayback.archive.org/web/20091026012819/http:/geocities.com/trudyb1998/index.html’ saved [17972/17972]
+
+Loading robots.txt; please ignore errors.
+--2015-11-04 14:45:24--  http://wayback.archive.org/robots.txt
+Reusing existing connection to wayback.archive.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 101 [text/plain]
+Saving to: ‘wayback.archive.org/robots.txt’
+
+     0K                                                       100% 6.26M=0s
+
+2015-11-04 14:45:25 (6.26 MB/s) - ‘wayback.archive.org/robots.txt’ saved [101/101]
+
+FINISHED --2015-11-04 14:45:25--
+Total wall clock time: 6.3s
+Downloaded: 2 files, 18K in 0.2s (106 KB/s)
+
+

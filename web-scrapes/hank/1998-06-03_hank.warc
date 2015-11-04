@@ -1,0 +1,449 @@
+WARC/1.0
+WARC-Type: warcinfo
+Content-Type: application/warc-fields
+WARC-Date: 2015-11-04T14:36:39Z
+WARC-Record-ID: <urn:uuid:c29c2013-4114-454d-8acd-2b9b760e64f2>
+WARC-Filename: 1998-06-03_hank.warc
+WARC-Block-Digest: sha1:V2ZU2YXDUDH25PION5LRXTKOEYYWMBH3
+Content-Length: 371
+
+software: Wget/1.15 (linux-gnu)
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+robots: classic
+wget-arguments: "-r" "-l" "3" "--warc-file=1998-06-03_hank" "--no-warc-compression" "http://wayback.archive.org/web/20010728093401/http://www.geocities.com/ResearchTriangle/Thinktank/3419/diary/3_6_1998.htm" 
+
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: http://wayback.archive.org/web/20010728093401/http://www.geocities.com/ResearchTriangle/Thinktank/3419/diary/3_6_1998.htm
+Content-Type: application/http;msgtype=request
+WARC-Date: 2015-11-04T14:36:39Z
+WARC-Record-ID: <urn:uuid:b1c7d151-c896-4cc6-a3e5-79068a295e16>
+WARC-IP-Address: 207.241.224.26
+WARC-Warcinfo-ID: <urn:uuid:c29c2013-4114-454d-8acd-2b9b760e64f2>
+WARC-Block-Digest: sha1:ABFA3BT2W3PPH5DRM64742CPA6GCTSQ3
+Content-Length: 211
+
+GET /web/20010728093401/http://www.geocities.com/ResearchTriangle/Thinktank/3419/diary/3_6_1998.htm HTTP/1.1
+User-Agent: Wget/1.15 (linux-gnu)
+Accept: */*
+Host: wayback.archive.org
+Connection: Keep-Alive
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:cc211005-7e26-4195-b2f2-972ed9bdc4f4>
+WARC-Warcinfo-ID: <urn:uuid:c29c2013-4114-454d-8acd-2b9b760e64f2>
+WARC-Concurrent-To: <urn:uuid:b1c7d151-c896-4cc6-a3e5-79068a295e16>
+WARC-Target-URI: http://wayback.archive.org/web/20010728093401/http://www.geocities.com/ResearchTriangle/Thinktank/3419/diary/3_6_1998.htm
+WARC-Date: 2015-11-04T14:36:39Z
+WARC-IP-Address: 207.241.224.26
+WARC-Block-Digest: sha1:HC7LOJFRHUIWSRKWVHGHZRRIQB2ZXCIU
+WARC-Payload-Digest: sha1:H3N7NZ7FG3U2K226TJZWCQZ7IDMSWBOD
+Content-Type: application/http;msgtype=response
+Content-Length: 13923
+
+HTTP/1.1 200 OK
+Server: Tengine/2.1.0
+Date: Wed, 04 Nov 2015 14:36:40 GMT
+Content-Type: text/html;charset=utf-8
+Content-Length: 12093
+Connection: keep-alive
+set-cookie: wayback_server=59; Domain=archive.org; Path=/; Expires=Fri, 04-Dec-15 14:36:39 GMT;
+Memento-Datetime: Sat, 28 Jul 2001 09:34:01 GMT
+Link: <http://www.geocities.com/ResearchTriangle/Thinktank/3419/diary/3_6_1998.htm>; rel="original", <http://web.archive.org/web/timemap/link/http://www.geocities.com/ResearchTriangle/Thinktank/3419/diary/3_6_1998.htm>; rel="timemap"; type="application/link-format", <http://web.archive.org/web/http://www.geocities.com/ResearchTriangle/Thinktank/3419/diary/3_6_1998.htm>; rel="timegate", <http://web.archive.org/web/20010728093401/http://www.geocities.com/ResearchTriangle/Thinktank/3419/diary/3_6_1998.htm>; rel="first memento"; datetime="Sat, 28 Jul 2001 09:34:01 GMT", <http://web.archive.org/web/20010802000113/http://www.geocities.com/ResearchTriangle/Thinktank/3419/diary/3_6_1998.htm>; rel="next memento"; datetime="Thu, 02 Aug 2001 00:01:13 GMT", <http://web.archive.org/web/20091024024632/http://www.geocities.com/ResearchTriangle/Thinktank/3419/diary/3_6_1998.htm>; rel="last memento"; datetime="Sat, 24 Oct 2009 02:46:32 GMT"
+Set-Cookie: JSESSIONID=7D35B4A1FA5205DF41E05CAA05C7B92F; Path=/; HttpOnly
+X-Archive-Orig-last-modified: Sat, 28 Jul 2001 09:34:04 GMT
+X-Archive-Guessed-Charset: WINDOWS-1252
+X-Archive-Orig-expires: Fri, 27 Jul 2001 09:34:04 GMT
+X-Archive-Orig-connection: close
+X-Archive-Orig-content-type: text/html
+X-Archive-Orig-date: Sat, 28 Jul 2001 09:34:04 GMT
+X-Archive-Orig-pragma: no-cache
+X-Archive-Wayback-Perf: {"IndexLoad":62,"IndexQueryTotal":62,"RobotsFetchTotal":3,"RobotsRedis":2,"RobotsTotal":3,"Total":278,"WArcResource":64}
+X-Archive-Playback: 1
+X-Page-Cache: MISS
+
+<!--Created by GeoCities Home Page Generator-->
+<HTML>
+<HEAD>
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app13.us.archive.org";archive_analytics.values.server_ms=278;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+<TITLE>Diary Entry 3.6.1998</TITLE>
+</HEAD>
+<!--COLOR-->
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#C0C0C0">
+
+
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript">//<![CDATA[
+var __wm = (function(imgWidth,imgHeight,yearImgWidth,monthImgWidth){
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http://www.geocities.com/ResearchTriangle/Thinktank/3419/diary/3_6_1998.htm";
+
+var firstYear = 1996;
+var displayDay = "28";
+var displayMonth = "Jul";
+var displayYear = "2001";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+var $D=document,$=function(n){return document.getElementById(n)};
+var trackerVal,curYear = -1,curMonth = -1;
+var yearTracker,monthTracker;
+function showTrackers(val) {
+  if (val===trackerVal) return;
+  var $ipp=$("wm-ipp");
+  var $y=$("displayYearEl"),$m=$("displayMonthEl"),$d=$("displayDayEl");
+  if (val) {
+    $ipp.className="hi";
+  } else {
+    $ipp.className="";
+    $y.innerHTML=displayYear;$m.innerHTML=displayMonth;$d.innerHTML=displayDay;
+  }
+  yearTracker.style.display=val?"inline":"none";
+  monthTracker.style.display=val?"inline":"none";
+  trackerVal = val;
+}
+function trackMouseMove(event,element) {
+  var eventX = getEventX(event);
+  var elementX = getElementX(element);
+  var xOff = Math.min(Math.max(0, eventX - elementX),imgWidth);
+  var monthOff = xOff % yearImgWidth;
+
+  var year = Math.floor(xOff / yearImgWidth);
+  var monthOfYear = Math.min(11,Math.floor(monthOff / monthImgWidth));
+  // 1 extra border pixel at the left edge of the year:
+  var month = (year * 12) + monthOfYear;
+  var day = monthOff % 2==1?15:1;
+  var dateString = zeroPad(year + firstYear) + zeroPad(monthOfYear+1,2) +
+    zeroPad(day,2) + "000000";
+
+  $("displayYearEl").innerHTML=year+firstYear;
+  $("displayMonthEl").innerHTML=prettyMonths[monthOfYear];
+  // looks too jarring when it changes..
+  //$("displayDayEl").innerHTML=zeroPad(day,2);
+  var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+  $("wm-graph-anchor").href=url;
+
+  if(curYear != year) {
+    var yrOff = year * yearImgWidth;
+    yearTracker.style.left = yrOff + "px";
+    curYear = year;
+  }
+  if(curMonth != month) {
+    var mtOff = year + (month * monthImgWidth) + 1;
+    monthTracker.style.left = mtOff + "px";
+    curMonth = month;
+  }
+}
+function hideToolbar() {
+  $("wm-ipp").style.display="none";
+}
+function bootstrap() {
+  var $spk=$("wm-ipp-sparkline");
+  yearTracker=$D.createElement('div');
+  yearTracker.className='yt';
+  with(yearTracker.style){
+    display='none';width=yearImgWidth+"px";height=imgHeight+"px";
+  }
+  monthTracker=$D.createElement('div');
+  monthTracker.className='mt';
+  with(monthTracker.style){
+    display='none';width=monthImgWidth+"px";height=imgHeight+"px";
+  }
+  $spk.appendChild(yearTracker);
+  $spk.appendChild(monthTracker);
+
+  var $ipp=$("wm-ipp");
+  $ipp&&disclaimElement($ipp);
+}
+return{st:showTrackers,mv:trackMouseMove,h:hideToolbar,bt:bootstrap};
+})(500, 27, 25, 2);//]]>
+</script>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+</style>
+<div id="wm-ipp" lang="en" style="display:none;">
+
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+   <table style="width:100%;"><tbody><tr>
+   <td id="wm-logo">
+       <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+   </td>
+   <td class="c">
+       <table style="margin:0 auto;"><tbody><tr>
+       <td class="u" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://www.geocities.com/ResearchTriangle/Thinktank/3419/diary/3_6_1998.htm" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20010728093401" /><input type="submit" value="Go" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td class="n" rowspan="2">
+           <table><tbody>
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr class="m">
+           	<td class="b" nowrap="nowrap">
+		
+		    Jun
+		
+		</td>
+		<td class="c" id="displayMonthEl" title="You are here: 9:34:01 Jul 28, 2001">JUL</td>
+		<td class="f" nowrap="nowrap">
+		
+		    <a href="/web/20090830194537/http://geocities.com/ResearchTriangle/Thinktank/3419/diary/3_6_1998.htm" title="30 Aug 2009"><strong>AUG</strong></a>
+		
+                </td>
+	    </tr>
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr class="d">
+               <td class="b" nowrap="nowrap">
+               
+                       <img src="/static/images/toolbar/wm_tb_prv_off.png" alt="Previous capture" width="14" height="16" border="0" />
+               
+               </td>
+               <td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 9:34:01 Jul 28, 2001">28</td>
+	       <td class="f" nowrap="nowrap">
+               
+		   <a href="/web/20010802000113/http://www.geocities.com/ResearchTriangle/Thinktank/3419/diary/3_6_1998.htm" title="0:01:13 Aug 2, 2001"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a>
+	       
+	       </td>
+           </tr>
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr class="y">
+	       <td class="b" nowrap="nowrap">
+               
+                   2000
+               
+               </td>
+               <td class="c" id="displayYearEl" title="You are here: 9:34:01 Jul 28, 2001">2001</td>
+	       <td class="f" nowrap="nowrap">
+               
+	           <a href="/web/20090830194537/http://geocities.com/ResearchTriangle/Thinktank/3419/diary/3_6_1998.htm" title="30 Aug 2009"><strong>2009</strong></a>
+	       
+	       </td>
+           </tr>
+           </tbody></table>
+       </td>
+       </tr>
+       <tr>
+       <td class="s">
+           <a class="t" href="/web/20010728093401*/http://www.geocities.com/ResearchTriangle/Thinktank/3419/diary/3_6_1998.htm" title="See a list of every capture for this URL">4 captures</a>
+           <div class="r" title="Timespan for captures of this URL">28 Jul 01 - 24 Oct 09</div>
+       </td>
+       <td class="k">
+       <a href="" id="wm-graph-anchor">
+       <div id="wm-ipp-sparkline" title="Explore captures for this URL">
+	 <img id="sparklineImgId" alt="sparklines"
+		 onmouseover="__wm.st(1)" onmouseout="__wm.st(0)"
+		 onmousemove="__wm.mv(event,this)"
+		 width="500"
+		 height="27"
+		 border="0"
+		 src="/web/jsp/graph.jsp?graphdata=500_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:6:000000110000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000000_2006:-1:000000000000_2007:-1:000000000000_2008:-1:000000000000_2009:-1:000000010100_2010:-1:000000000000_2011:-1:000000000000_2012:-1:000000000000_2013:-1:000000000000_2014:-1:000000000000_2015:-1:000000000000" />
+       </div>
+       </a>
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td class="r">
+       <a href="#close" onclick="__wm.h();return false;" style="background-image:url(/static/images/toolbar/wm_tb_close.png);top:5px;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="background-image:url(/static/images/toolbar/wm_tb_help.png);bottom:5px;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+</div>
+</div>
+</div>
+<script type="text/javascript">__wm.bt();</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+<!--HEAD1-->
+<!--HEAD2-->
+<!--LINE1-->
+<br>
+<!--BODY-->
+
+<!-- <SERVICE NAME="geoguide"> -->
+<table bgcolor=#666666 cellpadding=1 cellspacing=0 border=0 width=468>
+<tr><td><table bgcolor=#eeeeee cellpadding=2 cellspacing=0 border=0 width=100%>
+<tr><td bgcolor=#FF0000><a href="/web/20010728093401/http://geocities.yahoo.com/addons/interact/mbe.html"><IMG SRC="/web/20010728093401im_/http://pic.geocities.com/images/mbe/mbeFF0000.gif" ALT="Yahoo! GeoCities Member Banner Exchange" WIDTH=335 HEIGHT=20 border=0></a></td>
+<td align=right bgcolor=#FF0000><font face="Arial" size="-1"><a href="/web/20010728093401/http://geocities.yahoo.com/addons/interact/mbe.html">Info</a></font>&nbsp;</td></tr></table></td></tr>
+</table>
+<table cellpadding=0 cellspacing=0 width=468 border=0>
+<tr><td valign=top height=1></td></tr>
+<tr><td valign=top><SCRIPT LANGUAGE="JavaScript" src="/web/20010728093401js_/http://us.toto.geo.yahoo.com/toto?s=76001084&amp;b=2"></SCRIPT></td></tr>
+</table>
+
+<!-- </SERVICE> -->
+
+<p>
+Hello all!<br>
+This truly will be a quick note, but I just wanted to tell you all about yesterday's goings on.  Yesterday was a short day because of a Frankfurt only holiday called Wäldchestag.  This day was traditionally set aside so that everyone could literally go take a walk in the woods.  In the woods, they would find a very nice place to set up and have a party.  Today, they really do it up with a carnival in the Frankfurt Staadtwald.  It is nice for everyone to get away from their jobs together and go to the woods.  I went with quite a few (about 10) colleagues from work.  It was a lot of fun with Apfelwein and bier drinking for everyone.  There was wonderful food and we all went on the Ferris Wheel to see the Frankfurter skyline.  It was a very beautiful night and fun was had by all.  We left the office around 14:00-14:30 and got there by 15:00.  We stayed (all of us) until 23:00.  It was a great time filled with comraderie and laughter.  I think this is a team building experience that all companies should employ.  Well, needless to say, when I got home at about 11:30 I went straight to bed.  I was dog tired, but it was worth it.<br>
+Well, that is my news.  Let me hear from you.<br>
+<br>
+Take care,<br>
+Hank<br>
+</p>
+<p>
+<a href="mailto:henry_fieglein@dgbank.de">Send a Response to Hank</a><br>
+<a href="/web/20010728093401/http://www.geocities.com/cgi-bin/geoplus_apps/ans_entry">Sign my guest book!</a>
+</p>
+<img src="/web/20010728093401im_/http://www.geocities.com/cgi-bin/counter">
+<p>
+<center>
+<hr>
+This page hosted by <a href="/web/20010728093401/http://www.geocities.com/"><img src="/web/20010728093401im_/http://www.geocities.com/pictures/gc_icon.gif" border=0 align=middle></a>   
+Get your own <a href="/web/20010728093401/http://www.geocities.com/">Free Home Page</a>
+</center>
+</body>
+</html>
+<!-- text below generated by server. PLEASE REMOVE --></object></layer></div></span></style></noscript></table></script></applet>
+<script language="JavaScript" src="/web/20010728093401js_/http://us.geocities.com/js_source/ygNSLib9.js?v3"></script><script language="JavaScript">yvnR='us';yfnEA(1);</script><script language="JavaScript" src="/web/20010728093401js_/http://www.geocities.com/js_source/geov2.js"></script><script language="javascript">geovisit();</script><noscript><img src="/web/20010728093401im_/http://visit.geocities.com/visit.gif" border=0 width=1 height=1></noscript>
+<IMG SRC="/web/20010728093401im_/http://geo.yahoo.com/serv?s=76001084&amp;t=996312844" ALT=1 WIDTH=1 HEIGHT=1>
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 9:34:01 Jul 28, 2001 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:36:40 Nov 4, 2015.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: http://wayback.archive.org/robots.txt
+Content-Type: application/http;msgtype=request
+WARC-Date: 2015-11-04T14:36:40Z
+WARC-Record-ID: <urn:uuid:e3085ffd-b1de-4fd8-a9b1-733eeb815b4e>
+WARC-IP-Address: 207.241.224.26
+WARC-Warcinfo-ID: <urn:uuid:c29c2013-4114-454d-8acd-2b9b760e64f2>
+WARC-Block-Digest: sha1:B25QALU7OCF52ZZE7GEXUWSN2NP5OAR3
+Content-Length: 199
+
+GET /robots.txt HTTP/1.1
+User-Agent: Wget/1.15 (linux-gnu)
+Accept: */*
+Host: wayback.archive.org
+Connection: Keep-Alive
+Cookie: JSESSIONID=7D35B4A1FA5205DF41E05CAA05C7B92F; wayback_server=59
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Record-ID: <urn:uuid:5f15674a-9c69-471c-8187-c00423a7ce0e>
+WARC-Warcinfo-ID: <urn:uuid:c29c2013-4114-454d-8acd-2b9b760e64f2>
+WARC-Concurrent-To: <urn:uuid:e3085ffd-b1de-4fd8-a9b1-733eeb815b4e>
+WARC-Target-URI: http://wayback.archive.org/robots.txt
+WARC-Date: 2015-11-04T14:36:40Z
+WARC-IP-Address: 207.241.224.26
+WARC-Block-Digest: sha1:HFG6NTMPVOT5KLYNYVTU6W7CRIDX74HL
+WARC-Payload-Digest: sha1:77IA2Z353CWFUJXBUOBSD32KSIGWY3XS
+Content-Type: application/http;msgtype=response
+Content-Length: 390
+
+HTTP/1.1 200 OK
+Server: Tengine/2.1.0
+Date: Wed, 04 Nov 2015 14:36:40 GMT
+Content-Type: text/plain
+Content-Length: 101
+Connection: keep-alive
+ETag: W/"101-1402435148000"
+Last-Modified: Tue, 10 Jun 2014 21:19:08 GMT
+X-Archive-Playback: 0
+X-Page-Cache: HIT
+Accept-Ranges: bytes
+
+# robots.txt web.archive.org 2013-10-02
+
+User-agent: *
+Disallow: /
+
+User-agent: ia_archiver
+Allow: /
+
+
+WARC/1.0
+WARC-Type: metadata
+WARC-Record-ID: <urn:uuid:126c6e60-8dd1-405d-90b6-4841c74bd139>
+WARC-Warcinfo-ID: <urn:uuid:c29c2013-4114-454d-8acd-2b9b760e64f2>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/MANIFEST.txt
+WARC-Date: 2015-11-04T14:36:40Z
+WARC-Block-Digest: sha1:F5MOVE3IZJKMAGBAP4BF6E4ZVL36D5PG
+Content-Type: text/plain
+Content-Length: 48
+
+<urn:uuid:c29c2013-4114-454d-8acd-2b9b760e64f2>
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:a6e1ca54-72bc-4e99-a6a7-db86ed3bb1f7>
+WARC-Warcinfo-ID: <urn:uuid:c29c2013-4114-454d-8acd-2b9b760e64f2>
+WARC-Concurrent-To: <urn:uuid:126c6e60-8dd1-405d-90b6-4841c74bd139>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/wget_arguments.txt
+WARC-Date: 2015-11-04T14:36:40Z
+WARC-Block-Digest: sha1:ADH5Q5EOG5DD7K4KZ4JAJWNVFMGDIJQO
+Content-Type: text/plain
+Content-Length: 193
+
+"-r" "-l" "3" "--warc-file=1998-06-03_hank" "--no-warc-compression" "http://wayback.archive.org/web/20010728093401/http://www.geocities.com/ResearchTriangle/Thinktank/3419/diary/3_6_1998.htm" 
+
+
+WARC/1.0
+WARC-Type: resource
+WARC-Record-ID: <urn:uuid:ac318c04-30e1-4984-86e3-49b876cea3e6>
+WARC-Warcinfo-ID: <urn:uuid:c29c2013-4114-454d-8acd-2b9b760e64f2>
+WARC-Concurrent-To: <urn:uuid:126c6e60-8dd1-405d-90b6-4841c74bd139>
+WARC-Target-URI: metadata://gnu.org/software/wget/warc/wget.log
+WARC-Date: 2015-11-04T14:36:40Z
+WARC-Block-Digest: sha1:XA3EARKZ7T6BQYMXSX3WB6HDIPJHV7WB
+Content-Type: text/plain
+Content-Length: 1370
+
+Opening WARC file ‘1998-06-03_hank.warc’.
+
+--2015-11-04 14:36:39--  http://wayback.archive.org/web/20010728093401/http://www.geocities.com/ResearchTriangle/Thinktank/3419/diary/3_6_1998.htm
+Resolving wayback.archive.org (wayback.archive.org)... 207.241.224.26
+Connecting to wayback.archive.org (wayback.archive.org)|207.241.224.26|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 12093 (12K) [text/html]
+Saving to: ‘wayback.archive.org/web/20010728093401/http:/www.geocities.com/ResearchTriangle/Thinktank/3419/diary/3_6_1998.htm’
+
+     0K .......... .                                          100% 75.6K=0.2s
+
+2015-11-04 14:36:40 (75.6 KB/s) - ‘wayback.archive.org/web/20010728093401/http:/www.geocities.com/ResearchTriangle/Thinktank/3419/diary/3_6_1998.htm’ saved [12093/12093]
+
+Loading robots.txt; please ignore errors.
+--2015-11-04 14:36:40--  http://wayback.archive.org/robots.txt
+Reusing existing connection to wayback.archive.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 101 [text/plain]
+Saving to: ‘wayback.archive.org/robots.txt’
+
+     0K                                                       100% 6.55M=0s
+
+2015-11-04 14:36:40 (6.55 MB/s) - ‘wayback.archive.org/robots.txt’ saved [101/101]
+
+FINISHED --2015-11-04 14:36:40--
+Total wall clock time: 1.1s
+Downloaded: 2 files, 12K in 0.2s (76.2 KB/s)
+
+
